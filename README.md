@@ -33,6 +33,7 @@
 
 ### Future Enhancements
 * Testing against multiple screen sizes.
+* More test cases around invalid email/password combination
 * Stronger assertion after successful user login.
 * Utilizing explicit wait instead of "time.sleep" usage in certain cases.
 
